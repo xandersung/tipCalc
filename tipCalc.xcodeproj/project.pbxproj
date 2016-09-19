@@ -14,6 +14,7 @@
 		95B4E7861D8B760D001DF476 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95B4E7841D8B760D001DF476 /* LaunchScreen.storyboard */; };
 		95B4E7911D8B760D001DF476 /* tipCalcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95B4E7901D8B760D001DF476 /* tipCalcTests.swift */; };
 		95B4E79C1D8B760E001DF476 /* tipCalcUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95B4E79B1D8B760E001DF476 /* tipCalcUITests.swift */; };
+		95B4E7AA1D8F718F001DF476 /* readme.txt in Resources */ = {isa = PBXBuildFile; fileRef = 95B4E7A91D8F718F001DF476 /* readme.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		95B4E7971D8B760E001DF476 /* tipCalcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipCalcUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		95B4E79B1D8B760E001DF476 /* tipCalcUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipCalcUITests.swift; sourceTree = "<group>"; };
 		95B4E79D1D8B760E001DF476 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95B4E7A91D8F718F001DF476 /* readme.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = readme.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				95B4E7821D8B760D001DF476 /* Assets.xcassets */,
 				95B4E7841D8B760D001DF476 /* LaunchScreen.storyboard */,
 				95B4E7871D8B760D001DF476 /* Info.plist */,
+				95B4E7A91D8F718F001DF476 /* readme.txt */,
 			);
 			path = tipCalc;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 			files = (
 				95B4E7861D8B760D001DF476 /* LaunchScreen.storyboard in Resources */,
 				95B4E7831D8B760D001DF476 /* Assets.xcassets in Resources */,
+				95B4E7AA1D8F718F001DF476 /* readme.txt in Resources */,
 				95B4E7811D8B760D001DF476 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -503,6 +507,7 @@
 				95B4E7A21D8B760E001DF476 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		95B4E7A31D8B760E001DF476 /* Build configuration list for PBXNativeTarget "tipCalcTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +516,7 @@
 				95B4E7A51D8B760E001DF476 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		95B4E7A61D8B760E001DF476 /* Build configuration list for PBXNativeTarget "tipCalcUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +525,7 @@
 				95B4E7A81D8B760E001DF476 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

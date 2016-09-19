@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif" target="_blank"><img src='tipCalc/tipCalcGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+<a href="/course_images/ios_for_designers/tipCalc/tipCalcGif.gif" target="_blank"><img src='xandersung/tipCalc/tipCalcGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "30d22774a98f126b4540eb9c62dbacdd"
+build_time: [527303306, 745195000]
+inputs:
+  "/Users/lqf510/Desktop/tipCalc/tipCalc/ViewController.swift": [527303306, 0]
+  "/Users/lqf510/Desktop/tipCalc/tipCalc/AppDelegate.swift": [527301389, 0]
